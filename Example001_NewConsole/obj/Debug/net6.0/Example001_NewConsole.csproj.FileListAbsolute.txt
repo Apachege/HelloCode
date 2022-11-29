@@ -1,0 +1,15 @@
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.exe
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.deps.json
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.runtimeconfig.json
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.dll
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.pdb
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.csproj.AssemblyReference.cache
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.AssemblyInfoInputs.cache
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.AssemblyInfo.cs
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.csproj.CoreCompileInputs.cache
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.dll
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\refint\Example001_NewConsole.dll
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.pdb
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.genruntimeconfig.cache
+D:\Gb\Разработчик\Знакомство_с_языками_программирования\Lesson_1\Examples\Example001_NewConsole\obj\Debug\net6.0\ref\Example001_NewConsole.dll
